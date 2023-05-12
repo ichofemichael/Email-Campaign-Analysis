@@ -11,5 +11,3 @@ Open the Dashboard: Launch Power BI Desktop and click on "Open" in the toolbar. 
 Refresh Data: Once the dashboard is opened, you may need to refresh the data connections to ensure you have the latest campaign data. Click on "Refresh" in the toolbar or navigate to "Home" > "Refresh" to update the data.
 
 Interact with the Dashboard: Explore the different pages and visuals in the dashboard to gain insights into your email campaign performance. Customize the filters, drill down into specific metrics, and interact with the visuals to uncover actionable information.
-
-Save and Share: Save your changes to the dashboard, and if you're using Power BI Pro, publish it to the Power BI service for sharing and collaboration with your team. Export visuals, create reports, or schedule data refreshes as per your requirements.
